@@ -1,0 +1,13 @@
+# seq1:GCACAT 
+# seq2:TGAGA 
+# Mode:DISTANCE 
+# Match:1 
+# Missmatch:-1 
+# Gap:-2 
+# Score:-3 
+# Length:7 
+# Gaps:1/6  (17%) 
+# Identity:2/6  (33%) 
+GCACAT 
+  | |  
+TGAGA- 

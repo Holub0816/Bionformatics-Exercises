@@ -1,0 +1,9 @@
+
+>U23740.1 Elephas maximus cytochrome b (cytb) gene, mitochondrial gene encoding mitochondrial protein, partial cds 
+GAAATTTCGGCTCACTACTAGGAGCGTGCCTAATTACCCAAATCCTAACAGGATTATTCCTAGCCA 
+>U23741.1 Loxodonta africana cytochrome b (cytb) gene, mitochondrial gene encoding mitochondrial protein, partial cds 
+GAAATTTCGGCTCACTACTAGGAGCATGCCTAATTACCCAAATCCTAACAGGATTATTCCTAGCCA 
+>AY424307.1 Elephas antiquus falconeri cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product 
+GAAATTTCGGCTCACTACTAGGAGCGTGCCTAATTACCCAAATCCTAACAGGATTATTCCTAGCCA 
+>NorthAmericanMastodon gi|924716|gb|U23737.1|MAU23737 Mammut americanum cytochrome b (cytb) gene, mitochondrial gene encoding mitochondrial protein, partial cds 
+GAAATTTCGGCTCACTACTAGGAGCATGCCTAATTACCCAAATCCTAACAGGATTATTCCTAGCCA 

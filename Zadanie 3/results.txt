@@ -1,0 +1,13 @@
+# seq1: AACGTAACGT 
+# seq2: TCGT 
+# Mode: SIMILARITY 
+# Punctation: AA   AC   AT   AG   CC   CT   CG   TT   TG   GG 
+#              2   -7   -5   -7   2   -7   -5   2   -7   2 
+# Gap: -1 
+# Score: 6 
+# Length: 8 
+# Gaps: 0/3  (0%) 
+# Identity: 3/3  (100%) 
+CGT 
+||| 
+CGT 

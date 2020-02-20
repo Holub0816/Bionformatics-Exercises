@@ -1,0 +1,1 @@
+interface('input1','AsiaticElephant.txt','input2','Mammoth.txt','mode','DISTANCE','match',1,'missmatch',-1,'gap',-2);

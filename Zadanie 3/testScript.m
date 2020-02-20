@@ -1,0 +1,1 @@
+interface('input1','AAAA','input2','AAA','gap',-1,'filename','myfile.txt');

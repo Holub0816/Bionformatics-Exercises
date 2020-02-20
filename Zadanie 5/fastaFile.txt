@@ -1,0 +1,10 @@
+>firstSequence
+MATK-A
+>secondSequence
+MOTINA
+>thirdSequence
+MOTHER
+>fourthSequence
+MUTTER
+>fifthSequence
+MO---R

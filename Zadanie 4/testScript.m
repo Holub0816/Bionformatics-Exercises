@@ -1,0 +1,1 @@
+interface('filename1','fastaFile.txt','filename2','myfile.txt')

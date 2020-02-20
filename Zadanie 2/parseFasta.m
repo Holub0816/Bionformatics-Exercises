@@ -1,0 +1,13 @@
+function odp = parseFasta(fastaContent)
+%Funkcja parseFasta() oddziela identyfikator od sekwencji, czyli parsuje
+%wartoœci wejœciowe zgodnie z za³o¿on¹ wczeœniej konwencj¹.
+[token,remain] = strtok(fastaContent,newline);
+fasta = struct('identifier',token,'sequence',remain);
+odp = strtrim(fasta.sequence);
+end
+
+%Czasowa z³o¿onoœæ obliczeniowa:
+%3
+
+%Przestrzenna z³o¿onoœæ obliczeniowa:
+%5
